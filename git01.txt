@@ -4,3 +4,4 @@ Git003
 Git004
 Git005
 Git006
+新建了ignore文件！！！
